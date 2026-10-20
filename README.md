@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/125a5bbd-5467-4482-9a60-5ba896936518
   <img width="400"  alt="Planificación" src="https://github.com/user-attachments/assets/e9833a25-f477-40b9-b5d4-a1f02e1ad6af" />
   <img width="400"  alt="Reparto" src="https://github.com/user-attachments/assets/cf29f2e4-a31a-494b-87a6-8921e3184275" />
   <img width="400"  alt="Registrar" src="https://github.com/user-attachments/assets/a018c643-2caa-413f-b034-017a1bd629c8" />
-  <img width="499"  alt="Dashboard" src="https://github.com/user-attachments/assets/200eb3c0-e1b0-4095-bbb8-bc9d7974cf49" />
+  <img width="400"  alt="Dashboard" src="https://github.com/user-attachments/assets/200eb3c0-e1b0-4095-bbb8-bc9d7974cf49" />
 </p>
 
 
